@@ -21,7 +21,7 @@ Because resources are freed up much sooner, multiple iterations of a project (or
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="plots/etl_time.png"> ETL |<img width="1604" src="plots/ml_time.png"> Machine Learning |<img width="1604" src="plots/total_time.png"> End-to-end |
+|<img width="1604" src="plots/etl_time.png">|<img width="1604" src="plots/ml_time.png">|<img width="1604" src="plots/total_time.png">|
 
 ## Methodology
 ### The Data
