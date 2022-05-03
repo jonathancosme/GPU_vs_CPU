@@ -1,0 +1,151 @@
+NumRows,Device,Task,Time (seconds)
+500000,CPU,Load data,0.354
+500000,CPU,Write date,1.12
+500000,CPU,Describe dataframe,0.0539
+500000,CPU,Set index on dataframe,0.0502
+500000,CPU,Concat multiple dataframes,0.0855
+500000,CPU,Groupby aggregation (mean),0.154
+500000,CPU,Fit label encoder,0.0678
+500000,CPU,Encode data,0.198
+500000,CPU,Scale data,0.0031
+500000,CPU,split data,0.0319
+500000,CPU,OLS Regression,0.031
+500000,CPU,Logistic Regression,1.63
+500000,CPU,K-Means,1.14
+500000,CPU,Random Forest Classifier,19
+500000,CPU,Gradient Boosting,7.36
+500000,GPU,Load data,0.0454
+500000,GPU,Write date,0.101
+500000,GPU,Describe dataframe,0.0923
+500000,GPU,Set index on dataframe,0.0158
+500000,GPU,Concat multiple dataframes,0.0686
+500000,GPU,Groupby aggregation (mean),0.0167
+500000,GPU,Fit label encoder,0.0492
+500000,GPU,Encode data,0.0846
+500000,GPU,Scale data,0.00125
+500000,GPU,split data,0.00905
+500000,GPU,OLS Regression,0.00678
+500000,GPU,Logistic Regression,0.308
+500000,GPU,K-Means,0.0745
+500000,GPU,Random Forest Classifier,0.447
+500000,GPU,Gradient Boosting,0.468
+1000000,CPU,Load data,0.685
+1000000,CPU,Write date,2.37
+1000000,CPU,Describe dataframe,0.0978
+1000000,CPU,Set index on dataframe,0.104
+1000000,CPU,Concat multiple dataframes,0.185
+1000000,CPU,Groupby aggregation (mean),0.331
+1000000,CPU,Fit label encoder,0.147
+1000000,CPU,Encode data,0.404
+1000000,CPU,Scale data,0.0073
+1000000,CPU,split data,0.0839
+1000000,CPU,OLS Regression,0.0814
+1000000,CPU,Logistic Regression,2.57
+1000000,CPU,K-Means,1.38
+1000000,CPU,Random Forest Classifier,54.1
+1000000,CPU,Gradient Boosting,13.3
+1000000,GPU,Load data,0.064
+1000000,GPU,Write date,0.2
+1000000,GPU,Describe dataframe,0.114
+1000000,GPU,Set index on dataframe,0.025
+1000000,GPU,Concat multiple dataframes,0.00832
+1000000,GPU,Groupby aggregation (mean),0.0271
+1000000,GPU,Fit label encoder,0.104
+1000000,GPU,Encode data,0.153
+1000000,GPU,Scale data,0.00125
+1000000,GPU,split data,0.0114
+1000000,GPU,OLS Regression,0.0131
+1000000,GPU,Logistic Regression,0.694
+1000000,GPU,K-Means,0.137
+1000000,GPU,Random Forest Classifier,0.836
+1000000,GPU,Gradient Boosting,0.431
+2000000,CPU,Load data,1.46
+2000000,CPU,Write date,4.39
+2000000,CPU,Describe dataframe,0.211
+2000000,CPU,Set index on dataframe,0.287
+2000000,CPU,Concat multiple dataframes,0.417
+2000000,CPU,Groupby aggregation (mean),0.695
+2000000,CPU,Fit label encoder,0.289
+2000000,CPU,Encode data,0.79
+2000000,CPU,Scale data,0.0164
+2000000,CPU,split data,0.179
+2000000,CPU,OLS Regression,0.115
+2000000,CPU,Logistic Regression,5.31
+2000000,CPU,K-Means,1.92
+2000000,CPU,Random Forest Classifier,104
+2000000,CPU,Gradient Boosting,31.1
+2000000,GPU,Load data,0.107
+2000000,GPU,Write date,0.364
+2000000,GPU,Describe dataframe,0.118
+2000000,GPU,Set index on dataframe,0.0287
+2000000,GPU,Concat multiple dataframes,0.0117
+2000000,GPU,Groupby aggregation (mean),0.04
+2000000,GPU,Fit label encoder,0.193
+2000000,GPU,Encode data,0.262
+2000000,GPU,Scale data,0.00185
+2000000,GPU,split data,0.0214
+2000000,GPU,OLS Regression,0.0241
+2000000,GPU,Logistic Regression,1.22
+2000000,GPU,K-Means,0.264
+2000000,GPU,Random Forest Classifier,1.66
+2000000,GPU,Gradient Boosting,0.636
+4000000,CPU,Load data,2.66
+4000000,CPU,Write date,8.72
+4000000,CPU,Describe dataframe,0.429
+4000000,CPU,Set index on dataframe,0.507
+4000000,CPU,Concat multiple dataframes,0.996
+4000000,CPU,Groupby aggregation (mean),1.33
+4000000,CPU,Fit label encoder,0.558
+4000000,CPU,Encode data,1.58
+4000000,CPU,Scale data,0.0234
+4000000,CPU,split data,0.424
+4000000,CPU,OLS Regression,0.304
+4000000,CPU,Logistic Regression,12
+4000000,CPU,K-Means,3.11
+4000000,CPU,Random Forest Classifier,227
+4000000,CPU,Gradient Boosting,68
+4000000,GPU,Load data,0.193
+4000000,GPU,Write date,0.672
+4000000,GPU,Describe dataframe,0.156
+4000000,GPU,Set index on dataframe,0.0513
+4000000,GPU,Concat multiple dataframes,0.0179
+4000000,GPU,Groupby aggregation (mean),0.0767
+4000000,GPU,Fit label encoder,0.37
+4000000,GPU,Encode data,0.483
+4000000,GPU,Scale data,0.00298
+4000000,GPU,split data,0.0291
+4000000,GPU,OLS Regression,0.0417
+4000000,GPU,Logistic Regression,1.36
+4000000,GPU,K-Means,0.511
+4000000,GPU,Random Forest Classifier,3.03
+4000000,GPU,Gradient Boosting,0.939
+20000000,CPU,Load data,13.4
+20000000,CPU,Write date,44.4
+20000000,CPU,Describe dataframe,1.83
+20000000,CPU,Set index on dataframe,2.33
+20000000,CPU,Concat multiple dataframes,4.2
+20000000,CPU,Groupby aggregation (mean),6.33
+20000000,CPU,Fit label encoder,2.64
+20000000,CPU,Encode data,8.3
+20000000,CPU,Scale data,0.149
+20000000,CPU,split data,2.74
+20000000,CPU,OLS Regression,1.51
+20000000,CPU,Logistic Regression,45.7
+20000000,CPU,K-Means,13.2
+20000000,CPU,Random Forest Classifier,1121
+20000000,CPU,Gradient Boosting,520
+20000000,GPU,Load data,1.9
+20000000,GPU,Write date,3.07
+20000000,GPU,Describe dataframe,0.499
+20000000,GPU,Set index on dataframe,0.117
+20000000,GPU,Concat multiple dataframes,0.0532
+20000000,GPU,Groupby aggregation (mean),0.249
+20000000,GPU,Fit label encoder,1.79
+20000000,GPU,Encode data,2.14
+20000000,GPU,Scale data,0.00705
+20000000,GPU,split data,0.107
+20000000,GPU,OLS Regression,0.196
+20000000,GPU,Logistic Regression,8.7
+20000000,GPU,K-Means,2.48
+20000000,GPU,Random Forest Classifier,13.8
+20000000,GPU,Gradient Boosting,3.56

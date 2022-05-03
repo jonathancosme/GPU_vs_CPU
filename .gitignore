@@ -1,1 +1,5 @@
+# ignore
 **/*.csv
+
+# exceptions 
+!**/results.csv
