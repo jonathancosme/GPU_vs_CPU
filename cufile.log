@@ -5,3 +5,4 @@
  02-05-2022 18:35:37:726 [pid=66814 tid=66814] ERROR  cufio-drv:689 nvidia-fs.ko driver not loaded
  02-05-2022 18:36:57:622 [pid=67061 tid=67061] ERROR  cufio-drv:689 nvidia-fs.ko driver not loaded
  03-05-2022 04:31:03:929 [pid=7737 tid=7737] ERROR  cufio-drv:689 nvidia-fs.ko driver not loaded
+ 03-05-2022 06:14:17:937 [pid=10937 tid=10937] ERROR  cufio-drv:689 nvidia-fs.ko driver not loaded

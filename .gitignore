@@ -1,5 +1,6 @@
 # ignore
 **/*.csv
+scratch.ipynb
 
 # exceptions 
 !**/results.csv
