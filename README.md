@@ -14,7 +14,8 @@ Because resources are freed up much sooner, multiple iterations of a project (or
 
 * For **ETL**, we see more than **85% reduction in time**
 * For **Machine Learning**, we see a more than **98% reduction in time**
-* **End-to-end**, we see a more than **95% reduction in time**
+* **End-to-end**, we see a more than **95% reduction in time**    
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" src="plots/etl_time.png">  ETL |  <img width="1604" src="plots/ml_time.png"> Machine Learning |<img width="1604" src="plots/total_time.png"> End-to-end |
