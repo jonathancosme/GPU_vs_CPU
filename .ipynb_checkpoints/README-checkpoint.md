@@ -14,13 +14,14 @@ Because resources are freed up much sooner, multiple iterations of a project (or
 
 
 ### Summary
+![](docs/benchmark_summary.png)
 * For **ETL**, we see more than **85% reduction in time**
 * For **Machine Learning**, we see a more than **98% reduction in time**
 * **End-to-end**, we see a more than **95% reduction in time**    
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="plots/etl_time.png">  ETL |  <img width="1604" src="plots/ml_time.png"> Machine Learning |<img width="1604" src="plots/total_time.png"> End-to-end |
+|<img width="1604" src="plots/etl_time.png"> ETL |<img width="1604" src="plots/ml_time.png"> Machine Learning |<img width="1604" src="plots/total_time.png"> End-to-end |
 
 ## Methodology
 ### The Data
@@ -79,9 +80,20 @@ The experiment was run on a Lenova Legion laptop with the following:
 * NVIDIA GeForce RTX Laptop 3080 with 16GB of video memory
 * AMD Ryzen 9 5900HX with 8 dual-cores (16 cores) and 32GB of RAM
 
-## How to use notebooks
-
-## How do I start using GPUs!?
-
 ## Individual Task Figures
 
+### ETL
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="plots/Load_data.png">|<img width="1604" src="plots/Write_date.png"> |<img width="1604" src="plots/Describe_dataframe.png">|  
+<img width="1604" src="plots/Set_index_on_dataframe.png">|<img width="1604" src="plots/Concat_multiple_dataframes.png">|<img width="1604" src="plots/Groupby_aggregation_(mean).png">|  
+<img width="1604" src="plots/Fit_label_encoder.png">|<img width="1604" src="plots/Encode_data.png">|<img width="1604" src="plots/Scale_data.png">|  
+<img width="1604" src="plots/split_data.png">|
+
+### Machine Learning
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="plots/OLS_Regression.png">|<img width="1604" src="plots/Logistic_Regression.png">|<img width="1604" src="plots/K-Means.png">|  
+<img width="1604" src="plots/Random_Forest_Classifier.png">|<img width="1604" src="plots/Gradient_Boosting.png">|
