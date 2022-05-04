@@ -10,7 +10,7 @@ Because resources are freed up much sooner, multiple iterations of a project (or
     **Please start by watching this.**
 
 ### Slides
-* a [**PDF** of the slides from the video can be found here](docs/Why_use_GPU_over_CPU.pdf)
+* a [**PDF** of the slides can be found here](docs/Why_use_GPU_over_CPU.pdf)
 
 
 ### Summary
