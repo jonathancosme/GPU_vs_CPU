@@ -86,14 +86,20 @@ The following requirements must be met:
 * A conda environment with the [rapids.ai](https://rapids.ai/start.html) suite installed
 
 1. Clone the github repository
-2. Download the data files located in the Files section above
-![](docs/download_files.png)
-3. move the downloaded files into the sample_data folder
+2. Download the data files located in the Files section above  
+
+![](docs/download_files.png)  
+
+3. move the downloaded files into the sample_data folder 
+
 ![](docs/sampe_data_folder.png)
+
 4. Choose any file, and update the filenames in **BOTH** of the following notebooks
 * CPU_demo.ipynb
-* GPU_demo.ipynb
-![](docs/udpate_notebook_input_files.png)
+* GPU_demo.ipynb  
+
+![](docs/udpate_notebook_input_files.png)  
+  
 5. Run both of the notebooks (CPU_demo.ipynb and GPU_demo.ipynb) or...
 ![]()
 6. Alternatively, you can run the time_benchmark.ipynb notebook
