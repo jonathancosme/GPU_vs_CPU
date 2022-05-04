@@ -6,7 +6,7 @@ Because resources are freed up much sooner, multiple iterations of a project (or
 ## Results
 
 ### Video
-* A short (insert time here) video presentation can be found here(video to come).  
+* A short 9-minute video presentation can be found [here](https://vimeo.com/706230213).  
     **Please start by watching this.**
 
 ### Slides
@@ -79,6 +79,24 @@ The following packages were used for the GPU experiment:
 The experiment was run on a Lenova Legion laptop with the following:
 * NVIDIA GeForce RTX Laptop 3080 with 16GB of video memory
 * AMD Ryzen 9 5900HX with 8 dual-cores (16 cores) and 32GB of RAM
+
+## Instructions
+The following requirements must be met:
+* Jupyter Lab
+* A conda environment with the [rapids.ai](https://rapids.ai/start.html) suite installed
+
+1. Clone the github repository
+2. Download the data files located in the Files section above
+![](docs/download_files.png)
+3. move the downloaded files into the sample_data folder
+![](docs/sampe_data_folder.png)
+4. Choose any file, and update the filenames in **BOTH** of the following notebooks
+* CPU_demo.ipynb
+* GPU_demo.ipynb
+![](docs/udpate_notebook_input_files.png)
+5. Run both of the notebooks (CPU_demo.ipynb and GPU_demo.ipynb) or...
+![]()
+6. Alternatively, you can run the time_benchmark.ipynb notebook
 
 ## Individual Task Figures
 
