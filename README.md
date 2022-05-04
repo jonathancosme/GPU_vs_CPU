@@ -6,11 +6,11 @@ Because resources are freed up much sooner, multiple iterations of a project (or
 ## Results
 
 ### Video
-* A short 9-minute video presentation can be found [here](https://vimeo.com/706230213).  
+* A short 9-minute [video presentation can be found here](https://vimeo.com/706230213).  
     **Please start by watching this.**
 
 ### Slides
-* a **PDF** of the slides from the video can be found [here](docs/Why_use_GPU_over_CPU.pdf)
+* a [**PDF** of the slides from the video can be found here](docs/Why_use_GPU_over_CPU.pdf)
 
 
 ### Summary
@@ -99,7 +99,7 @@ The following requirements must be met:
 * GPU_demo.ipynb  
 
 ![](docs/udpate_notebook_input_files.png)  
-  
+
 5. Run both of the notebooks (CPU_demo.ipynb and GPU_demo.ipynb) or...
 ![]()
 6. Alternatively, you can run the time_benchmark.ipynb notebook
