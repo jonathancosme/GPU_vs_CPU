@@ -10,7 +10,10 @@ Because resources are freed up much sooner, multiple iterations of a project (or
     **Please start by watching this.**
 
 ### Slides
-* a [**PDF** of the slides can be found here](docs/Why_use_GPU_over_CPU.pdf)
+* A [**PDF** of the slides can be found here](docs/Why_use_GPU_over_CPU.pdf)
+
+### Article
+* The [published article can be found here](https://mlops.community/why-use-gpus-instead-of-cpus/)
 
 
 ### Summary
