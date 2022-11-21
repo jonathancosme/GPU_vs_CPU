@@ -4,7 +4,10 @@ Utilizing the GPUs for end-to-end data science projects (including ETL and data 
 Because resources are freed up much sooner, multiple iterations of a project (or different projects) can be completes in the same time it would have taken to run one single iteration of a project using the CPU.  
 
 You can find another similar benchmark series here: [CPU vs GPU Benchmarks Series](https://unum.cloud/post/2022-01-25-cpu-vs-gpu/)  
-
+  
+**UPDATE:** A updated version of this experiment can be found in [GPU_vs_CPU_v2](https://github.com/jonathancosme/GPU_vs_CPU_v2).  
+We use a newer (more powerful) CPU, and run the CPU experiment using multiple cores/threads.  
+  
 ## Results
 
 ### Video
